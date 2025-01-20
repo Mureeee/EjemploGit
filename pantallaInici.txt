@@ -1,4 +1,6 @@
 Titulo
 BarraNav
+Linklogin
+LinkRegistre
 cuerpo
 desenlaze

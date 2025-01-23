@@ -2,5 +2,6 @@ Titulo
 BarraNav
 Linklogin
 LinkRegistre
+link codigo avanzado
 cuerpo
 desenlaze
